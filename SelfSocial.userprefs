@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{25254E40-905E-46AC-8DD1-0FDE215DE094}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SelfSocial/LoginActivity.cs" Line="59" Column="46" />
+      <File FileName="SelfSocial/Services/ServiceHelper.cs" Line="11" Column="108" />
+      <File FileName="SelfSocial/RegisterActivity.cs" Line="72" Column="47" />
+      <File FileName="SelfSocial/MenuActivity.cs" Line="24" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SelfSocial" expanded="True">
+            <Node name="Emotions" expanded="True">
+              <Node name="ServiceImage.cs" selected="True" />
+            </Node>
+            <Node name="SelfSocial" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SelfSocial AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ZY223VFJ8W" />
+</Properties>
